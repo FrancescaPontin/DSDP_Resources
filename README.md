@@ -13,5 +13,6 @@
 
 ## Academic Resources
 
+### Tips on how to write a paper: jounral considerations, planning, structure, top tips. 
 
 
