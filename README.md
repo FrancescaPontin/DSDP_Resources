@@ -13,6 +13,6 @@
 
 ## Academic Resources
 
-### Tips on how to write a paper: jounral considerations, planning, structure, top tips. 
+- [Tips on how to write a paper](https://github.com/FrancescaPontin/DSDP_Resources/blob/main/documents/Paper_writing_tips_DSDP.pdf): journal considerations, planning, structure & top tips. 
 
 
